@@ -4,7 +4,7 @@
 
 English| [中文](./README.md) 
 
-An awesome multi-modal text-to-image and text-to-video app.
+One-click AI generation of unlimited-length animated videos。
 
 [![GitHub release](https://img.shields.io/static/v1?label=release&message=v2.6.3&color=blue)](https://www.github.com/novicezk/midjourney-proxy)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
