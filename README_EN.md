@@ -23,6 +23,9 @@ One-click AI generation of unlimited-length animated videos。
 - [X] Upload of local scripts
 - [X] Upload of local images
 
+## Quick Experience
+    Android Download Link：https://github.com/haozihao/multimodalgen-flutter/releases/download/V0.0.1/multimodalgen-flutter-V0.0.1.apk
+
 ## Local Development
 - Development Tool:flutter
 - Project Execution : Run the main.dart Function
