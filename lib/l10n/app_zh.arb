@@ -1,0 +1,12 @@
+{
+  "create": "创作",
+  "@create": {
+    "description": "Create a new item",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "World"
+      }
+    }
+  }
+}
