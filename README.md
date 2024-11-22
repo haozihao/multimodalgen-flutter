@@ -24,7 +24,7 @@
 - [X] 本地图片上传
 
 ## 快速体验
-    android下载链接：https://github.com/haozihao/multimodalgen-flutter/releases/download/V0.0.1/multimodalgen-flutter-V0.0.1.apk
+    android下载链接：[安卓](https://github.com/haozihao/multimodalgen-flutter/releases/download/V0.0.1/multimodalgen-flutter-V0.0.1.apk)
 
 ## 本地开发
 - 开发工具：flutter
