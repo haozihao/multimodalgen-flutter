@@ -12,10 +12,21 @@ One-click AI generation of unlimited-length animated videos。
 </div>
 
 #### Case Videos (Click to Play)
-[![Good Morning](https://i.ytimg.com/vi/kRNurdJUWVk/maxresdefault.jpg)](https://youtu.be/kRNurdJUWVk)
-[![Sun Wukong](https://i.ytimg.com/vi/dF0mpusOB68/maxresdefault.jpg)](https://youtu.be/dF0mpusOB68)
-[![The Corpse-Retriever of the Yellow River](https://i.ytimg.com/vi/qs4QK3Cv6RQ/maxresdefault.jpg)](https://youtu.be/qs4QK3Cv6RQ)
-[![Calming the Waves](https://i.ytimg.com/vi/D57axmQSGJk/maxresdefault.jpg)](https://youtu.be/D57axmQSGJk)
+<a href="https://youtu.be/kRNurdJUWVk">
+  <img src="https://github.com/user-attachments/assets/663a7809-dce2-4007-b858-40c08c1660f0"  style="width: 48%;">
+</a>
+
+<a href="https://youtu.be/dF0mpusOB68">
+  <img src="https://github.com/user-attachments/assets/2fe17915-852a-4c11-b92b-8ea0296b274a"  style="width: 48%;">
+</a>
+
+<a href="https://youtu.be/qs4QK3Cv6RQ">
+  <img src="https://github.com/user-attachments/assets/9f868b50-20de-4791-9d1f-8aa915b08a15"  style="width: 48%;">
+</a>
+
+<a href="https://youtu.be/D57axmQSGJk">
+  <img src="https://github.com/user-attachments/assets/c2a2c5b4-88aa-4fc1-a019-88b4a66a688b"  style="width: 48%;">
+</a>
 
 #### Main Features
 - [X] One-click AI generation of unlimited-length animated videos
