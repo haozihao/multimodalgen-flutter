@@ -11,10 +11,11 @@
 
 </div>
 
-#### 精选案例
+#### 案例视频（点击播放）
 [![Good morning](https://i.ytimg.com/vi/kRNurdJUWVk/maxresdefault.jpg)](https://youtu.be/kRNurdJUWVk)
+[![孙悟空](https://i.ytimg.com/vi/dF0mpusOB68/maxresdefault.jpg)](https://youtu.be/dF0mpusOB68)
 [![黄河捞尸人](https://i.ytimg.com/vi/qs4QK3Cv6RQ/maxresdefault.jpg)](https://youtu.be/qs4QK3Cv6RQ)
-
+[![定风波](https://i.ytimg.com/vi/D57axmQSGJk/maxresdefault.jpg)](https://youtu.be/D57axmQSGJk)
 
 #### 主要功能
 - [X] 一键AI生成无限长动画视频
