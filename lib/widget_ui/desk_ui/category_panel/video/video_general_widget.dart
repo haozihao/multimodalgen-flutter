@@ -92,7 +92,7 @@ class _VideoGeneralPanelState extends State<VideoGeneralPanel>
   bool image2Video = true;
   bool isGeneral = false;
   int pegg = 20;
-  int videoModelVersion = 1;
+  int videoModelVersion = 2;
 
   ///生图的进度，SD本地的可能无法获取进度
   // double generalProgress = 0;
@@ -114,7 +114,7 @@ class _VideoGeneralPanelState extends State<VideoGeneralPanel>
     _textPromptController =
         TextEditingController(text: widget.image2videoParam?.prompt ?? "");
     motionStrength = widget.motionStrength;
-    videoModelVersion = widget.image2videoParam?.modelVersion ?? 1;
+    videoModelVersion = widget.image2videoParam?.modelVersion ?? 2;
     steps = widget.image2videoParam?.steps ?? 30;
     widget.urls.forEach((element) {
       if (!element.startsWith("clip")) {
@@ -594,61 +594,6 @@ class _VideoGeneralPanelState extends State<VideoGeneralPanel>
             controller: _textPromptController,
           ),
         ),
-        Row(
-          children: [
-            Circle(
-              color: AppColor.piecesBlue,
-              radius: 5,
-            ),
-            Padding(
-              padding: EdgeInsets.only(left: 15),
-              child: Text(
-                "视频模型版本：",
-                style: TextStyle(fontSize: 12),
-              ),
-            ),
-          ],
-        ),
-        Padding(
-            padding: EdgeInsets.only(
-              left: 25,
-            ),
-            child: Row(
-              children: [
-                //模型单选，可以选择2个型号，一个选择1.0版本，一个选择2.0版本
-                Text('PieceAi 1.0(4秒)', style: TextStyle(fontSize: 12)),
-                Radio(
-                  value: 1,
-                  groupValue: videoModelVersion,
-                  onChanged: (value) {
-                    setState(() {
-                      videoModelVersion = value as int;
-                      duration = 4;
-                      _calculatePegg();
-                    });
-                  },
-                ),
-                SizedBox(
-                  width: 20,
-                ),
-                Tooltip(
-                  message: "XL视频模型支持提示词引导运动。可生成更加个性化的视频",
-                  child: Text('PieceAi XL(6秒)', style: TextStyle(fontSize: 12)),
-                ),
-                //2.0模型只支持6秒视频
-                Radio(
-                  value: 2,
-                  groupValue: videoModelVersion,
-                  onChanged: (value) {
-                    setState(() {
-                      videoModelVersion = value as int;
-                      duration = 6;
-                      _calculatePegg();
-                    });
-                  },
-                ),
-              ],
-            )),
         if (videoModelVersion == 1)
           Row(
             children: [
