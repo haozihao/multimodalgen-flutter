@@ -11,6 +11,11 @@
 
 </div>
 
+#### 精选案例
+[![Good morning](https://i.ytimg.com/vi/kRNurdJUWVk/maxresdefault.jpg)](https://youtu.be/kRNurdJUWVk)
+[![黄河捞尸人](https://i.ytimg.com/vi/qs4QK3Cv6RQ/maxresdefault.jpg)](https://youtu.be/qs4QK3Cv6RQ)
+
+
 #### 主要功能
 - [X] 一键AI生成无限长动画视频
 - [X] 丰富的案例视频库
