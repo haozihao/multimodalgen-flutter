@@ -11,6 +11,12 @@ One-click AI generation of unlimited-length animated videos。
 
 </div>
 
+#### Case Videos (Click to Play)
+[![Good Morning](https://i.ytimg.com/vi/kRNurdJUWVk/maxresdefault.jpg)](https://youtu.be/kRNurdJUWVk)
+[![Sun Wukong](https://i.ytimg.com/vi/dF0mpusOB68/maxresdefault.jpg)](https://youtu.be/dF0mpusOB68)
+[![The Corpse-Retriever of the Yellow River](https://i.ytimg.com/vi/qs4QK3Cv6RQ/maxresdefault.jpg)](https://youtu.be/qs4QK3Cv6RQ)
+[![Calming the Waves](https://i.ytimg.com/vi/D57axmQSGJk/maxresdefault.jpg)](https://youtu.be/D57axmQSGJk)
+
 #### Main Features
 - [X] One-click AI generation of unlimited-length animated videos
 - [X] Extensive library of example videos
