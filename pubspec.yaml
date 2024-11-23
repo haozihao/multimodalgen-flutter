@@ -8,20 +8,6 @@ homepage: https://www.pencil-stub.com/#/
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
-fluwx:
-  app_id: 'wx27ea737e4e026bab'
-  debug_logging: true # Logging in debug mode.
-  android:
-  #    no_pay: false # Set to false to disable payment.
-  #    interrupt_wx_request: true # Defaults to true.
-  #    flutter_activity: 'MainActivity' # Defaults to app's launcher
-  ios:
-    #    universal_link: https://testdomain.com
-    #    scene_delegate: true # Defaults to false.
-    no_pay: false # Set to false to disable payment.
-#    ignore_security: true # Set to true to disable security seetings.
-
-
 dependencies:
   flutter:
     sdk: flutter
@@ -137,9 +123,6 @@ dependencies:
   bottom_navy_bar: ^6.1.0
   textfield_tags: ^3.0.1
   buttons_tabbar: ^1.3.13
-
-  # 本地化
-  easy_localization: ^3.0.7
 
   # 友盟
 #  umeng_common_sdk: ^1.2.3
