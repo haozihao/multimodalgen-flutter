@@ -12,7 +12,7 @@
 </div>
 
 #### 案例视频
-<a href="https://youtu.be/kRNurdJUWVk">
+<a href="https://youtu.be/kRNurdJUWVk" target="_blank">
   <img src="https://github.com/user-attachments/assets/663a7809-dce2-4007-b858-40c08c1660f0"  style="width: 48%;">
 </a>
 
