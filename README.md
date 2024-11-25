@@ -28,6 +28,9 @@
   <img src="https://github.com/user-attachments/assets/c2a2c5b4-88aa-4fc1-a019-88b4a66a688b"  style="width: 48%;">
 </a>
 
+<a href="https://blog.csdn.net/linx354654968/article/details/144019252?sharetype=blogdetail&sharerId=144019252&sharerefer=PC&sharesource=linx354654968&spm=1011.2480.3001.8118" title="这是一个示例标题">博客详细介绍</a>
+
+
 #### 主要功能
 - [X] 一键AI生成无限长动画视频
 - [X] 丰富的案例视频库
