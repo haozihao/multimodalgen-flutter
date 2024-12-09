@@ -2,7 +2,7 @@
 
 <h1 align="center">multimodalgen</h1>
 
-[English](./README_EN.md) | 中文
+[English](./README.md) | 中文
 
 一键AI生成无限长动画视频
 
