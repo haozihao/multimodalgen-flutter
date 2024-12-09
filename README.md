@@ -2,7 +2,7 @@
 
 <h1 align="center">multimodalgen</h1>
 
-English| [中文](./README.md) 
+English| [中文](./README_CN.md) 
 
 One-click AI generation of unlimited-length animated videos。
 
@@ -12,6 +12,10 @@ One-click AI generation of unlimited-length animated videos。
 </div>
 
 #### Case Videos (Click to Play)
+<a href="https://youtu.be/v7rmbR-zU_I" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2aeba76e-37ed-4bde-a0f3-841662e44728"  style="width: 48%;">
+</a>
+
 <a href="https://youtu.be/kRNurdJUWVk">
   <img src="https://github.com/user-attachments/assets/663a7809-dce2-4007-b858-40c08c1660f0"  style="width: 48%;">
 </a>
@@ -22,10 +26,6 @@ One-click AI generation of unlimited-length animated videos。
 
 <a href="https://youtu.be/qs4QK3Cv6RQ">
   <img src="https://github.com/user-attachments/assets/9f868b50-20de-4791-9d1f-8aa915b08a15"  style="width: 48%;">
-</a>
-
-<a href="https://youtu.be/D57axmQSGJk">
-  <img src="https://github.com/user-attachments/assets/c2a2c5b4-88aa-4fc1-a019-88b4a66a688b"  style="width: 48%;">
 </a>
 
 #### Main Features
