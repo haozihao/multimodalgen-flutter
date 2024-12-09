@@ -28,6 +28,8 @@ One-click AI generation of unlimited-length animated videos。
   <img src="https://github.com/user-attachments/assets/9f868b50-20de-4791-9d1f-8aa915b08a15"  style="width: 48%;">
 </a>
 
+<a href="https://blog.csdn.net/linx354654968/article/details/144019252?sharetype=blogdetail&sharerId=144019252&sharerefer=PC&sharesource=linx354654968&spm=1011.2480.3001.8118" title="Blog Details">Blog Details</a>
+
 #### Main Features
 - [X] One-click AI generation of unlimited-length animated videos
 - [X] Extensive library of example videos
