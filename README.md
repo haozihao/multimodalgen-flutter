@@ -12,6 +12,10 @@
 </div>
 
 #### 案例视频
+<a href="https://youtu.be/v7rmbR-zU_I" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2aeba76e-37ed-4bde-a0f3-841662e44728"  style="width: 48%;">
+</a>
+
 <a href="https://youtu.be/kRNurdJUWVk" target="_blank">
   <img src="https://github.com/user-attachments/assets/663a7809-dce2-4007-b858-40c08c1660f0"  style="width: 48%;">
 </a>
@@ -22,10 +26,6 @@
 
 <a href="https://youtu.be/qs4QK3Cv6RQ">
   <img src="https://github.com/user-attachments/assets/9f868b50-20de-4791-9d1f-8aa915b08a15"  style="width: 48%;">
-</a>
-
-<a href="https://youtu.be/D57axmQSGJk">
-  <img src="https://github.com/user-attachments/assets/c2a2c5b4-88aa-4fc1-a019-88b4a66a688b"  style="width: 48%;">
 </a>
 
 <a href="https://blog.csdn.net/linx354654968/article/details/144019252?sharetype=blogdetail&sharerId=144019252&sharerefer=PC&sharesource=linx354654968&spm=1011.2480.3001.8118" title="这是一个示例标题">博客详细介绍</a>
